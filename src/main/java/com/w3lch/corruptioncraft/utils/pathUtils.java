@@ -1,6 +1,6 @@
-package com.example.examplemod.utils;
+package com.w3lch.corruptioncraft.utils;
 
-import com.example.examplemod.reference.Reference;
+import com.w3lch.corruptioncraft.reference.Reference;
 
 /**
  * Created by Henry Welch on 7/28/2014.

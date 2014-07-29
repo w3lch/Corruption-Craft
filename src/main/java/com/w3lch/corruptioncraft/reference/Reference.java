@@ -1,4 +1,4 @@
-package com.example.examplemod.reference;
+package com.w3lch.corruptioncraft.reference;
 
 /**
  * Created by Henry Welch on 7/28/2014.

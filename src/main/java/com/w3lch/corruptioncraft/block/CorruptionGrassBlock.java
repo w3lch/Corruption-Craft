@@ -1,4 +1,4 @@
-package com.example.examplemod.block;
+package com.w3lch.corruptioncraft.block;
 
 import net.minecraft.block.material.Material;
 
